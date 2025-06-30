@@ -26,7 +26,7 @@
 در ترمینال خود اجرا کنید:
 
 ```bash
-composer require farzad-forouzanfar/sms-client
+npm i asanak-web-call-client
 ```
 
 ## 🧪 نحوه استفاده
