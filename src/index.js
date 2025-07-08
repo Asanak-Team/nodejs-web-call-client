@@ -27,11 +27,11 @@ class AsanakWebCallClient {
     }
 
     async callByVoice(voiceId, destination) {
-        return this._sendRequest('/v1/send/file', { voice_id: voiceId, destination });
+        return this._sendRequest('/v1/call/voice-file', { voice_id: voiceId, destination });
     }
 
     async callByOtp(code, destination) {
-        return this._sendRequest('/v1/send/otp', { code, destination });
+        return this._sendRequest('/v1/call/otp', { code, destination });
     }
 
     async callStatus(callIds) {

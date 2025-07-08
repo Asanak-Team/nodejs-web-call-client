@@ -16,7 +16,7 @@
 
 - 🌐 [صفحه اصلی سرویس تماس آسا‌نک](https://callapi.asanak.com/)
 - 🧾 [مستندات آنلاین کامل](https://callapi.asanak.com/docs/v1)
-- 🚀 [مستندات آنلاین Postman](https://documenter.getpostman.com/view/21876448/2sB2qcDM5m)
+- 🚀 [مستندات آنلاین Postman](https://documenter.getpostman.com/view/45759202/2sB34Zq3mN)
 - ⬇️ [دانلود فایل کالکشن Postman](https://callapi.asanak.com/docs/v1/Asanak_Call_API_Service.postman_collection.json)
 
 ---
